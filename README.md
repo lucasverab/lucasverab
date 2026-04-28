@@ -65,7 +65,7 @@ Vera, L., Benítez, A., et al. (2024). *Design of an Adaptive Neural Controller 
  
 ### 📫 Contacto
  
-- 💼 [LinkedIn](https://linkedin.com/in/lucas-vera-benítez)
+- 💼 [LinkedIn]([https://linkedin.com/in/lucas-vera-benítez](https://www.linkedin.com/in/lucas-vera-ben%C3%ADtez-a04b87243/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEZggOLyfQYmZV%2F3xVX%2B54Q%3D%3D))
 - 📧 lucasdaniel.verab@gmail.com
 ---
  
