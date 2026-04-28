@@ -5,7 +5,7 @@
  
 ---
  
-Construyo y despliego sistemas de machine learning para riesgo financiero en entornos bancarios regulados. Trabajo el ciclo completo de los modelos: framing del problema con stakeholders, feature engineering, validación, despliegue en producción y monitoreo continuo.
+Construyo y despliego sistemas de machine learning para entornos bancarios regulados. Trabajo el ciclo completo de los modelos: framing del problema con stakeholders, feature engineering, validación, despliegue en producción y monitoreo continuo.
  
 Background en Ingeniería Electrónica.
  
